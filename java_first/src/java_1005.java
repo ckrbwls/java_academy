@@ -50,18 +50,5 @@ public class java_1005 {
 			sum = sum + i;
 		} System.out.println("합계:" + sum);
 
-		// id 가 idstudy 라면 비밀번호를 비교하고 그렇지 않으면 없는 아이디 라고 출력
-		if("id" == "idstudy") {
-		 		// pw 가 1234 면 로그인 성공 그렇지 않으면 잘못된 비밀번호
-		if("pw" == "1234") {
-			System.out.println("로그인 성공");}
-		 
-		else {System.out.println("잘못된 비밀번호");
-		}
-		}
-		else {System.out.println("없는 아이디");}
-		
-	
-		
 	}
 	}
