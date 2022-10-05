@@ -24,7 +24,7 @@ public class swap {
 		
 	int score = 103;
 		//스코어가 60 이상이면 합격 아니면 불합격
-	/*
+		/*
 		if (score >= 60) { System.out.println("합격");
 		}
 		else { System.out.println("불합격"); }

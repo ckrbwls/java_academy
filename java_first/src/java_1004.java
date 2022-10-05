@@ -68,7 +68,7 @@ public class java_1004 {
 		}
 	}
 		
-			}
+}
 		
 		
 		
